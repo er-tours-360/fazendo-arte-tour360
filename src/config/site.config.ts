@@ -17,7 +17,7 @@ export const siteConfig = {
   kuulaUrl: "https://kuula.co/share/collection/71bM4?logo=1&info=1&fs=1&vr=0&zoom=1&sd=1&thumbs=1",
   
   // 🏢 BRANDING DA EMPRESA
-  logo: "/logo_fazendo_arte.png", // Substitua o arquivo logo.png na pasta public/
+  logo: "https://raw.githubusercontent.com/er-tours-360/fazendo-arte-tour360/refs/heads/main/logo_fazendo_arte.png", // Substitua o arquivo logo.png na pasta public/
   companyName: "", // ← TESTE: Mudança será refletida automaticamente
   
   // 📞 INFORMAÇÕES DE CONTATO
